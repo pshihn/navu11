@@ -12,7 +12,5 @@ Second Post
 * ss
 * ss
 * ss
-
-  ![goo](/images/uploads/my-project-1-1-.png "Goo")
 * sss
 * ss
