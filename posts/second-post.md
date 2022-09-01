@@ -9,6 +9,8 @@ Second Post
 
 ## Whatever yo!
 
+![](/images/uploads/my-project-1-1-.png)
+
 * ss
 * ss
 * ss
